@@ -51,7 +51,11 @@ STEP:9  In the Design Object List Window, enter the pin location for each pin in
 STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
-VERILOG CODE
+VERILOG CODE:
+
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
 
 SR FLIPFLOP:
 ```
@@ -77,6 +81,10 @@ endmodule
 
 OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 01_cccc0e6e](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/1521f019-5a03-4ac5-aba5-e803e73d033c)
 
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+
 JK FLIPFLOP:
 ```
 module JKflipflop(clk,rst,s,r,q);
@@ -99,6 +107,10 @@ endmodule
 ```
 OUTPUT:![Screenshot 2024-04-06 111138](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/ba74630c-893b-4c8e-be63-86afd5b936bf)
 
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
+
 T FLIPFLOP:
 ```
 module tff(clk,rst,j,q);
@@ -116,6 +128,10 @@ endmodule
 ```
 OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 01_b6dbd5ed](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/a5052c21-91f8-4279-919d-e0a2313b175d)
 
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+
 D FLIPFLOP:
 ```
 module Dflipflop(clk,d,rst,out);
@@ -131,6 +147,11 @@ end
 endmodule
 ```
 OUTPUT:![Screenshorts Image 2024-04-13 at 09 59 59_756c502c](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/6135817b-ca0f-40f3-b875-ebfeeb6e1ecd)
+
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
+
 
 RIPPLECARRY COUNTER:
 ```
