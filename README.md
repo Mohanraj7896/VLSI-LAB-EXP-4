@@ -1,6 +1,7 @@
 # VLSI-LAB-EXP-4
-                                                                                                                                                                                                   G.MOHANRAJ
-                                                                                                                                                                                                212223060166    
+                                                                                                                                                                                                              G.MOHANRAJ
+                                                                                                                                                                                                              212223060166    
+
 SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
 AIM: 
