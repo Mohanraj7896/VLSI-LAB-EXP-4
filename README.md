@@ -1,10 +1,9 @@
 # VLSI-LAB-EXP-4
                                                                                                                                                                                                               G.MOHANRAJ                                                                                                                                                                                                   212223060166    
 
-SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+# SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
-AIM: 
- To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Xilinx ISE.
+# AIM: To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Xilinx ISE.
 
 APPARATUS REQUIRED:
 
@@ -223,6 +222,6 @@ endmodule
 ```
 OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 01_ffae364b](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/03bb71fa-c95c-463f-86f3-317b3999efc9)
 
-RESULT:Hence The simulation and synthesis of SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023 is done and output verified successfully.
+# RESULT:Hence The simulation and synthesis of SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023 is done and output verified successfully.
 
 
